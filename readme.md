@@ -1,0 +1,1 @@
+My entry for the Meta 2021 XR Hackathon, see https://xr2021.facebookhackathons.com/ "Duck Launcher" is a fun game where you shoot robotic duck targets, that can be launched with just voice commands like "Pull" or "Launch a duck", etc., using the new Presence Platform AI Voice recognition tools from Meta and the https://wit.ai platform.
